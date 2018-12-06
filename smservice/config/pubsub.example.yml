@@ -1,0 +1,8 @@
+development:
+  :redis_url: key
+
+staging:
+  :redis_url: key
+
+production:
+  :redis_url: key

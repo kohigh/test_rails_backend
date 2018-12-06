@@ -1,0 +1,17 @@
+development:
+  :url: 'https://api.twilio.com/2010-04-01/Accounts/your_account_sid/Messages.json'
+  :auth_username: username
+  :auth_password: password
+  :phone_from: +1111111111
+
+staging:
+  :url: 'https://api.twilio.com/2010-04-01/Accounts/your_account_sid/Messages.json'
+  :auth_username: username
+  :auth_password: password
+  :phone_from: +1111111111
+
+production:
+  :url: 'https://api.twilio.com/2010-04-01/Accounts/your_account_sid/Messages.json'
+  :auth_username: username
+  :auth_password: password
+  :phone_from: +1111111111
