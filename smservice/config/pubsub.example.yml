@@ -1,5 +1,5 @@
 development:
-  :redis_url: key
+  :redis_url: Keep this value blank if you run Redis locally
 
 staging:
   :redis_url: key
