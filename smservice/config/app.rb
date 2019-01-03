@@ -4,7 +4,7 @@ module App
       include EM::Deferrable
 
       def load_app
-        #log that app loaded all files and ready to start or start from this point
+        #log that app loaded all files and ready to start from this point
         succeed
       end
     end
@@ -15,7 +15,7 @@ module App
       include EM::Deferrable
 
       def release_resources
-        #log that app is closing. Think about ways to make this logic to differ closing reasons
+        #log that app is closing. Think about a way to make this logic be able to differ closing reasons
         succeed
       end
     end
