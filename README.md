@@ -1,6 +1,6 @@
 # Rails API with awesome features.
 
-## 1. Demo microservice for SMS messaging([Article about it](https://www.google.com))
+## 1. Demo microservice for SMS messaging([Article about it](https://mlsdev.com/blog/128-microservices-vs-monoliths-how-to-understand-when-it-s-time-to-use-the-former-option))
    ### Versions
         Ruby 2.5.1
         Rails 5.2.1.1 
